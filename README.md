@@ -8,6 +8,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/infisble/infisble/output/snake.svg" alt="Snake animation" />
+
 
 ###
