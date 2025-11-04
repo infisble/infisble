@@ -1,6 +1,6 @@
 
 
-# Hello World!, I'm Anton NewGenDeveloper:
+# Hello World!, I'm Anton:
 
 
 
